@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10%;
+    background-color:#d5e1ef;
+    font-family: Outfit;
+}
+.content{
+    padding: 20px;
+    background-color: white;
+    border-radius: 3%;
+    position: relative;
+    text-align: center;
+    height: 800px;
+    width: 578px;
+}
+.parent {
+    position: absolute;
+
+}
+.parent h1 {
+    position: absolute;
+}
+.parent p {
+    font-size: 26px;
+    position: absolute;
+    color: #8080807a;
+    margin-top: 122px;
+}
+img{
+    border-radius: 3%;
+}
